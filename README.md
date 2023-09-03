@@ -1,6 +1,6 @@
 # WeatherBot v1.0.0
 
-Исходники погодного [бота](https://t.me/weather_reminder_bot)
+Исходники погодного [бота](https://t.me/wheather_reminder_bot)
 
 Реализованные функции: 
 1. Регистрация пользователя
