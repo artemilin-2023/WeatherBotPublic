@@ -1,4 +1,4 @@
-# WeatherBotPublic v1.0.0
+# WeatherBot v1.0.0
 
 Исходники погодного [бота](https://t.me/weather_reminder_bot)
 
